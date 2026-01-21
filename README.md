@@ -31,8 +31,8 @@ This tool searches the NCBI COG database for 14 core T6SS components and identif
 
 ## Repository Contents
 
-- `t6ss_cog_search.ipynb` - Jupyter notebook to run the search
-- `t6ss_complete_species.csv` - Full results table (generated January 20, 2026)
+- `T6SS_NCBI_COG_Search.ipynb` - Jupyter notebook to run the search
+- `t6ss_all_orthologs.csv` - Full results table (generated January 20, 2026)
 - `README.md` - This file
 
 ## Output
